@@ -103,8 +103,8 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/mitul009"><img alt="mitul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul009&langs_count=10&layout=compact#"/></a>
+  <a href="https://github.com/mitul009"><img alt="mitul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul009&langs_count=10&layout=compact#"/></a></details>
   <br>
   <br>
   <br>
- <p align="center">©️ copyrighted by  Mitul009</p> 
+  <p align="center">©️ copyrighted by  Mitul009</p>
