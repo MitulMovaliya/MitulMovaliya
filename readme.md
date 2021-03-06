@@ -24,7 +24,7 @@
     <img src="https://discord.c99.nl/widget/theme-3/704593160201961495.png"/>
   </a>
 </p>
-[img]https://discord.c99.nl/widget/theme-4/704593160201961495.png [/img]
+<img src="https://discord.c99.nl/widget/theme-4/704593160201961495.png"/>
 
 ## 🔥 My contribution streak
 
