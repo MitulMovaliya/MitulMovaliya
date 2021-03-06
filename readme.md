@@ -21,10 +21,11 @@
 ## 🚀 Discord status 
 <p align="center">
   <a href="https://github.com/mitul009">
-    <img src="https://discord.c99.nl/widget/theme-3/704593160201961495.png"/>
+   <img src="https://discord.c99.nl/widget/theme-4/704593160201961495.png"/>
+   <img src="https://discord.c99.nl/widget/theme-3/704593160201961495.png"/>
   </a>
 </p>
-<img src="https://discord.c99.nl/widget/theme-4/704593160201961495.png"/>
+
 
 ## 🔥 My contribution streak
 
