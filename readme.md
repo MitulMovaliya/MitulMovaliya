@@ -26,6 +26,10 @@
   </a>
 </p>
 
+## 🚀 Discord status 
+
+https://discord.c99.nl/widget/theme-3/704593160201961495.png
+
 ## 👨‍💻 Languages and Tools:
 
 <table>
