@@ -30,8 +30,8 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/mitul009/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitul009#version3"/>
+  <a href="https://github.com/MitulMovaliya/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MitulMovaliya#version3"/>
   </a>
 </p>
 
