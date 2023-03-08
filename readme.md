@@ -108,13 +108,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/mitul009"><img alt="pikachu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mitul009&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/MitulMovaliya"><img alt="pikachu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MitulMovaliya&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/mitul009"><img alt="mitul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul009&langs_count=10&layout=compact#"/></a></details>
+  <a href="https://github.com/MitulMovaliya"><img alt="mitul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitulMovaliya&langs_count=10&layout=compact#"/></a></details>
   <br>
   <br>
   <br>
